@@ -38,13 +38,13 @@ If you see a version number, you're good. If not, download it from:
 ### Windows
 1. Download and unzip this folder
 2. Double-click **`start.bat`**
-3. A browser window will open automatically at `http://localhost:8000`
+3. A browser window will open automatically at `http://localhost:8009`
 
 ### Mac / Linux
 1. Download and unzip this folder
 2. Double-click **`start.sh`**
    - If it doesn't open, right-click → Open With → Terminal
-3. A browser window will open automatically at `http://localhost:8000`
+3. A browser window will open automatically at `http://localhost:8009`
 
 ---
 
