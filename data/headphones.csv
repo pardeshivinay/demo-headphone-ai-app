@@ -1,0 +1,21 @@
+id,name,brand,price_inr,rating,stock,category,connectivity,battery_hours,noise_cancellation,description
+H001,Bass Pro 300,BoAt,1299,4.2,45,Over-ear,Bluetooth,20,No,Deep bass 40mm drivers with 20hr battery. Foldable design ideal for daily commute and casual listening.
+H002,Rockerz 450,BoAt,1499,4.3,30,Over-ear,Bluetooth,15,No,Soft padded earcups with immersive sound. Lightweight build with hands-free calling support.
+H003,BassHeads 100,BoAt,599,4.0,80,In-ear,Wired,0,No,Tangle-free cable with powerful bass. In-line mic for calls. Budget pick for everyday use.
+H004,Airdopes 141,BoAt,999,4.1,60,In-ear,Bluetooth,6,No,True wireless earbuds with 6hr playback. Snug fit and IPX4 water resistance.
+H005,Solo 301,JBL,2499,4.4,25,Over-ear,Bluetooth,30,No,JBL Pure Bass sound with 30hr battery. Built-in mic and voice assistant support.
+H006,Tune 510BT,JBL,2299,4.3,35,On-ear,Bluetooth,40,No,Wireless on-ear with flat-fold design. 40hr mega battery. Lightweight and comfortable.
+H007,Wave Beam,JBL,1799,4.2,50,In-ear,Bluetooth,8,No,Deep bass earbuds with 32hr total playtime including case. IPX2 splash proof.
+H008,Tune 125TWS,JBL,2999,4.5,20,In-ear,Bluetooth,8,No,True wireless with JBL Pure Bass. Dual connect and voice assistant ready.
+H009,WH-CH520,Sony,2999,4.6,18,Over-ear,Bluetooth,50,No,Sony 50hr battery with multipoint connection. Clear calls with precise voice pickup mic.
+H010,WI-C100,Sony,1999,4.3,40,In-ear,Bluetooth,25,No,Wireless in-ear with 25hr stamina. IPX4 water resistant for workouts.
+H011,MDR-EX15AP,Sony,799,4.1,70,In-ear,Wired,0,No,Wired in-ear with built-in mic. Neodymium drivers for clear highs. Ergonomic comfort arc.
+H012,WH-1000XM3,Sony,14999,4.8,8,Over-ear,Bluetooth,30,Yes,Industry-leading noise cancellation. Adaptive sound control. Premium audio for audiophiles.
+H013,QuietComfort 45,Bose,24999,4.7,5,Over-ear,Bluetooth,24,Yes,World-class noise cancellation. TriPort acoustic architecture. Best for flights and focus.
+H014,SoundSport Free,Bose,8999,4.4,12,In-ear,Bluetooth,5,No,True wireless sport earbuds. StayHear+ tips for secure fit. Weather and sweat resistant.
+H015,OneOdio A10,OneOdio,2799,4.3,22,Over-ear,Bluetooth,30,Yes,Hybrid active noise cancellation under ₹3000. 30hr battery with transparency mode.
+H016,Hammer Bash,Hammer,1199,4.0,55,Over-ear,Bluetooth,16,No,Deep bass with 16hr playtime. Foldable design with LED light accent. Budget party headphone.
+H017,Ptron Bassbuds,PTron,699,3.9,90,In-ear,Bluetooth,4,No,Ultra budget TWS under ₹700. Bluetooth 5.0 with touch controls. Decent for the price.
+H018,Realme Buds 2,Realme,999,4.1,65,In-ear,Wired,0,No,Wired bass boost earphones with in-line remote. Tangle-resistant cable. Great value.
+H019,Mi Superbase,Xiaomi,1799,4.2,38,Over-ear,Bluetooth,20,No,Extra bass over-ear with foldable design. Dual device pairing. Clean minimal look.
+H020,Crossbeats Pebble,CrossBeats,2499,4.4,28,In-ear,Bluetooth,10,No,Premium TWS with 40hr total playtime. 6-mic ENC for clear calls. IPX5 rated.
