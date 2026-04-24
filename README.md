@@ -31,8 +31,6 @@ If you see a version number, you're good. If not, download it from:
 ### 2. An OpenAI API Key (you'll enter this in the app)
 👉 https://platform.openai.com/api-keys
 
-This demo uses `gpt-4o-mini` — one of the cheapest models. A typical session costs less than $0.01.
-
 ---
 
 ## How to run it
